@@ -13,4 +13,4 @@
 
 ### Interface 
 
-![alt](https://kumarkhailendra.github.io/calculator-web-gui/Screenshot 2021-12-17 164221.png)
+![alt](https://kumarkhailendra.github.io/calculator-web-gui/Screenshot.png)
